@@ -1,6 +1,8 @@
 Steve Koch stevekochscience@gmail.com
 
-As of August 4, 2012, this small set of code works for "Hello world" using Apache on bluehost.com, with python web framework web.py.  I don't know what I'm doing yet, but it serves a test page successfully.  Details:
+As of August 4, 2012, this small set of code works for "Hello world" using Apache on bluehost.com, with python web framework web.py.  I don't know what I'm doing yet, but it serves a test page successfully. As of now, you can visit http://sjkode.com/test/ to see the hello world.  
+
+Details:
 
 BLUEHOST
 
